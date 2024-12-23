@@ -30,5 +30,3 @@
 	},
 	"typescript.tsdk": "node_modules/typescript/lib"
 }
-
-git push -u origin main
