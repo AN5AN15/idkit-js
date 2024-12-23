@@ -78,3 +78,5 @@ jobs:
               run: pnpm publish -r --report-summary
               env:
                   NODE_AUTH_TOKEN: ${{secrets.GIT_HUB_TOKEN}}
+
+git push -u origin main
