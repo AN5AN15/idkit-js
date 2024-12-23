@@ -64,6 +64,8 @@ All the technical docs for the Wordcoin SDK, World ID Protocol, examples, guides
   </p>
 </a>
 
+git push -u origin main
+
 <!-- WORLD-ID-SHARED-README-TAG:END -->
 
 ## 🧑‍💻 Developing locally
